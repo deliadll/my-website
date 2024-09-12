@@ -3,7 +3,6 @@ Portfolio UX/UI Design
 
 Welcome to my UX/UI Design Portfolio! This project showcases my skills, my curriculum, and various UX/UI design projects I have worked on.
 
-Portfolio Structure
 The portfolio consists of the following key files and folders:
 
 index.html: The main homepage of the portfolio. It includes an overview of my design projects, skills, and a brief introduction about myself as a designer.
